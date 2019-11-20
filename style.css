@@ -1,0 +1,15 @@
+body{
+  background-color:rgb(222, 255, 251);
+}
+
+h1{
+  text-align:center;
+  text-transform: capitalize;
+  text-shadow: -1px -3px 10px red;
+  font-size:50px;
+  font-family: 'Bubblegum Sans', cursive;
+}
+
+h3{
+  text-align:center;
+}
